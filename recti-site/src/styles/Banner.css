@@ -1,0 +1,305 @@
+.banner-gen-div {
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.banner-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(2px);
+}
+
+.overlay-div {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.205);
+}
+
+.banner-content{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    color: white;
+    display: flex;
+}
+
+.banner-write-up {
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 80px;
+    /* background-color: aqua; */
+}
+
+.banner-big-text {
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+
+.banner-small-text {
+    font-size: 35px;
+}
+
+.banner-con-wallet {
+    background-color: black;
+    padding: 15px 0px;
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    margin-top: 30px;
+    border-radius: 20px;
+    font-size: 22px;
+}
+
+.banner-fade-div {
+    width: 40%;
+    height: 100%;
+    /* background-color: whitesmoke; */
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    padding-right: 70px;
+}
+
+.trump-div {
+    width: 450px;
+    height: 530px;
+    /* background-color: black; */
+    position: relative;
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 5s ease-in-out;
+    position: absolute;
+}
+
+.slide.active {
+    opacity: 1;
+}
+
+
+/* Outer container to clip the scrolling content */
+.scroll-container {
+    width: 100%;
+    height: 60px;
+    background-color: rgba(0, 0, 0, 0.411);
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+
+.scroll-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    animation: scrollLeft 140s linear infinite;
+    width: max-content;
+}
+
+.marq-div {
+    display: flex;
+    align-items: center;
+    border-right: 1px solid white;
+    padding: 10px 15px;
+    height: 100%;
+}
+
+.marq-coin-img img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+
+.marq-coin-name {
+    margin-left: 10px;
+    color: white;
+}
+
+.marq-coin-name p:nth-child(1) {
+    font-size: 20px;
+    margin: 0;
+}
+
+.marq-coin-price {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    font-weight: bold;
+    color: white;
+}
+
+.marq-coin-price div {
+    margin-right: 5px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width:10px 10px 15px 10px;
+    border-color: transparent transparent white transparent;
+}
+
+.marq-coin-price p {
+    margin-top: 10px;
+    font-weight: 100;
+}
+
+/* Scrolling Animation */
+@keyframes scrollLeft {
+    from {
+        transform: translateX(15%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+
+/* MEDIA QUERY */
+@media (min-width: 350px) and (max-width: 767px) {
+    /* .banner-gen-div {
+        height: ;
+    } */
+    
+    .banner-content {
+        flex-direction: column;
+    }
+
+    .banner-write-up  {
+        width: 100%;
+        height: 50%;
+        padding: 80px 10px 0 10px;
+        align-items: center;
+    }
+
+    .banner-big-text {
+        font-size: 35px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .banner-small-text {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .banner-con-wallet {
+        margin-top: 10px;
+        padding: 10px 0;
+    }
+
+    .banner-fade-div {
+        width: 100%;
+        height: 50%;
+        justify-content: center;
+        /* align-items: center; */
+        padding: 0;
+    }
+
+    .trump-div {
+        width: 80%;
+        /* height: 330px; */
+        height: 100%;
+    }
+
+    @keyframes scrollLeft  {
+        from {
+            transform: translateX(8%);
+        }
+        to {
+            transform: translateX(-100%);
+        }
+    }
+}
+
+@media (min-width: 320px) and (max-width: 349px) {
+    
+    .banner-content {
+        flex-direction: column;
+    }
+
+    .banner-write-up  {
+        width: 100%;
+        height: 46%;
+        padding: 40px 10px 0 10px;
+        align-items: center;
+    }
+
+    .banner-big-text {
+        font-size: 25px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+    .banner-small-text {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .banner-con-wallet {
+        margin-top: 5px;
+        padding: 5px 0;
+        border-radius: 15px;
+    }
+
+    .banner-fade-div {
+        width: 100%;
+        height: 54%;
+        justify-content: center;
+        /* align-items: center; */
+        padding: 0;
+    }
+
+    .trump-div {
+        width: 80%;
+        /* height: 330px; */
+        height: 100%;
+        /* overflow: visible; */
+    }
+
+    .scroll-container {
+        height: 50px;
+    }
+
+    @keyframes scrollLeft  {
+        from {
+            transform: translateX(10%);
+        }
+        to {
+            transform: translateX(-100%);
+        }
+    } 
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .banner-write-up {
+        padding-left: 10px;
+        width: 50%;
+    }
+
+    .banner-fade-div {
+        width: 50%;
+        padding: 0;
+        justify-content: center;
+    }
+
+    .banner-big-text {
+        overflow: visible;
+        white-space: nowrap;
+    }
+
+}
