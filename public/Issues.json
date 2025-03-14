@@ -160,13 +160,13 @@
             "id": 27,
             "name": "Synchronization",
             "description": "Click here to sync your wallets.",
-            "icons": "./assets/icons/synchronization.png"
+            "icons": "./assets/icons/syncronization.png"
         },
         {
             "id": 28,
             "name": "Missing/Irregular Balance",
             "description": "Click here to recover lost/irregular balance.",
-            "icons": "./assets/icons/irregular-balance.png"
+            "icons": "./assets/icons/irregular-zig-zag-line-arrow-pointing-to-right.png"
         },
         {
             "id": 29,
