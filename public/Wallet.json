@@ -1,0 +1,2377 @@
+[
+  {
+      "id": 1,
+      "name": "1Inch Wallet",
+      "image": "../src/assets/wallet_images/1inch wallet.webp"
+  },
+  {
+      "id": 2,
+      "name": "37X",
+      "image": "../src/assets/wallet_images/37x.webp"
+  },
+  {
+      "id": 3,
+      "name": "3Mint",
+      "image": "../src/assets/wallet_images/3mint.webp"
+  },
+  {
+      "id": 4,
+      "name": "3S Wallet",
+      "image": "../src/assets/wallet_images/3s wallet.webp"
+  },
+  {
+      "id": 5,
+      "name": "Abc Wallet",
+      "image": "../src/assets/wallet_images/abc wallet.webp"
+  },
+  {
+      "id": 6,
+      "name": "Abra Wallet",
+      "image": "../src/assets/wallet_images/abra wallet.webp"
+  },
+  {
+      "id": 7,
+      "name": "Absolute Wallet",
+      "image": "../src/assets/wallet_images/absolute wallet.webp"
+  },
+  {
+      "id": 8,
+      "name": "Airgap Wallet",
+      "image": "../src/assets/wallet_images/airgap wallet.webp"
+  },
+  {
+      "id": 9,
+      "name": "Aktionariat",
+      "image": "../src/assets/wallet_images/aktionariat.webp"
+  },
+  {
+      "id": 10,
+      "name": "Alephium Wallet",
+      "image": "../src/assets/wallet_images/alephium wallet.webp"
+  },
+  {
+      "id": 11,
+      "name": "Alicebob Wallet",
+      "image": "../src/assets/wallet_images/alicebob wallet.webp"
+  },
+  {
+      "id": 12,
+      "name": "Alphawallet",
+      "image": "../src/assets/wallet_images/alphawallet.webp"
+  },
+  {
+      "id": 13,
+      "name": "Altme",
+      "image": "../src/assets/wallet_images/altme.webp"
+  },
+  {
+      "id": 14,
+      "name": "Amazewallet",
+      "image": "../src/assets/wallet_images/amazewallet.webp"
+  },
+  {
+      "id": 15,
+      "name": "Ambire Wallet",
+      "image": "../src/assets/wallet_images/ambire wallet.webp"
+  },
+  {
+      "id": 16,
+      "name": "Ammer Wallet",
+      "image": "../src/assets/wallet_images/ammer wallet.webp"
+  },
+  {
+      "id": 17,
+      "name": "Ancrypto",
+      "image": "../src/assets/wallet_images/ancrypto.webp"
+  },
+  {
+      "id": 18,
+      "name": "Ape Wallet",
+      "image": "../src/assets/wallet_images/ape wallet.webp"
+  },
+  {
+      "id": 19,
+      "name": "Apollox",
+      "image": "../src/assets/wallet_images/apollox.webp"
+  },
+  {
+      "id": 20,
+      "name": "Arculus Wallet",
+      "image": "../src/assets/wallet_images/arculus wallet.webp"
+  },
+  {
+      "id": 21,
+      "name": "Argent",
+      "image": "../src/assets/wallet_images/argent.webp"
+  },
+  {
+      "id": 22,
+      "name": "Arianee Wallet",
+      "image": "../src/assets/wallet_images/arianee wallet.webp"
+  },
+  {
+      "id": 23,
+      "name": "Armana Portal",
+      "image": "../src/assets/wallet_images/armana portal.webp"
+  },
+  {
+      "id": 24,
+      "name": "At.Wallet",
+      "image": "../src/assets/wallet_images/at.wallet.webp"
+  },
+  {
+      "id": 25,
+      "name": "Atomic Wallet",
+      "image": "../src/assets/wallet_images/atomic wallet.webp"
+  },
+  {
+      "id": 26,
+      "name": "Aton",
+      "image": "../src/assets/wallet_images/aton.webp"
+  },
+  {
+      "id": 27,
+      "name": "Au Wallet",
+      "image": "../src/assets/wallet_images/au wallet.webp"
+  },
+  {
+      "id": 28,
+      "name": "Aurora Pass",
+      "image": "../src/assets/wallet_images/aurora pass.webp"
+  },
+  {
+      "id": 29,
+      "name": "Avacus",
+      "image": "../src/assets/wallet_images/avacus.webp"
+  },
+  {
+      "id": 30,
+      "name": "Azcoiner",
+      "image": "../src/assets/wallet_images/azcoiner.webp"
+  },
+  {
+      "id": 31,
+      "name": "Ballet Crypto",
+      "image": "../src/assets/wallet_images/ballet crypto.webp"
+  },
+  {
+      "id": 32,
+      "name": "Bc Vault",
+      "image": "../src/assets/wallet_images/bc vault.webp"
+  },
+  {
+      "id": 33,
+      "name": "Bcertin Wallet",
+      "image": "../src/assets/wallet_images/bcertin wallet.webp"
+  },
+  {
+      "id": 34,
+      "name": "Beanbag",
+      "image": "../src/assets/wallet_images/beanbag.webp"
+  },
+  {
+      "id": 35,
+      "name": "Bee Wallet",
+      "image": "../src/assets/wallet_images/bee wallet.webp"
+  },
+  {
+      "id": 36,
+      "name": "Beewallet",
+      "image": "../src/assets/wallet_images/beewallet.webp"
+  },
+  {
+      "id": 37,
+      "name": "Beexo",
+      "image": "../src/assets/wallet_images/beexo.webp"
+  },
+  {
+      "id": 38,
+      "name": "Berasig",
+      "image": "../src/assets/wallet_images/berasig.webp"
+  },
+  {
+      "id": 39,
+      "name": "Best Wallet",
+      "image": "../src/assets/wallet_images/best wallet.webp"
+  },
+  {
+      "id": 40,
+      "name": "Bettatrade",
+      "image": "../src/assets/wallet_images/bettatrade.webp"
+  },
+  {
+      "id": 41,
+      "name": "Bharatbox App",
+      "image": "../src/assets/wallet_images/bharatbox app.webp"
+  },
+  {
+      "id": 42,
+      "name": "Bifrost Wallet",
+      "image": "../src/assets/wallet_images/bifrost wallet.webp"
+  },
+  {
+      "id": 43,
+      "name": "Binance Wallet",
+      "image": "../src/assets/wallet_images/binance wallet.webp"
+  },
+  {
+      "id": 44,
+      "name": "Binance.Us",
+      "image": "../src/assets/wallet_images/binance.us.webp"
+  },
+  {
+      "id": 45,
+      "name": "Bitbox",
+      "image": "../src/assets/wallet_images/bitbox.webp"
+  },
+  {
+      "id": 46,
+      "name": "Bitcoin.Com Wallet",
+      "image": "../src/assets/wallet_images/bitcoin.com wallet.webp"
+  },
+  {
+      "id": 47,
+      "name": "Bitget Wallet Lite",
+      "image": "../src/assets/wallet_images/bitget wallet lite.webp"
+  },
+  {
+      "id": 48,
+      "name": "Bitget Wallet",
+      "image": "../src/assets/wallet_images/bitget wallet.webp"
+  },
+  {
+      "id": 49,
+      "name": "Bitizen",
+      "image": "../src/assets/wallet_images/bitizen.webp"
+  },
+  {
+      "id": 50,
+      "name": "Bitnovo Wallet",
+      "image": "../src/assets/wallet_images/bitnovo wallet.webp"
+  },
+  {
+      "id": 51,
+      "name": "Bitpay Wallet",
+      "image": "../src/assets/wallet_images/bitpay wallet.webp"
+  },
+  {
+      "id": 52,
+      "name": "Bitpie",
+      "image": "../src/assets/wallet_images/bitpie.webp"
+  },
+  {
+      "id": 53,
+      "name": "Bitski",
+      "image": "../src/assets/wallet_images/bitski.webp"
+  },
+  {
+      "id": 54,
+      "name": "Bitso Web Wallet",
+      "image": "../src/assets/wallet_images/bitso web wallet.webp"
+  },
+  {
+      "id": 55,
+      "name": "Bitverse",
+      "image": "../src/assets/wallet_images/bitverse.webp"
+  },
+  {
+      "id": 56,
+      "name": "Bitwinex",
+      "image": "../src/assets/wallet_images/bitwinex.webp"
+  },
+  {
+      "id": 57,
+      "name": "Blackfort Wallet",
+      "image": "../src/assets/wallet_images/blackfort wallet.webp"
+  },
+  {
+      "id": 58,
+      "name": "Blade Wallet",
+      "image": "../src/assets/wallet_images/blade wallet.webp"
+  },
+  {
+      "id": 59,
+      "name": "Blanq",
+      "image": "../src/assets/wallet_images/blanq.webp"
+  },
+  {
+      "id": 60,
+      "name": "Blazpay",
+      "image": "../src/assets/wallet_images/blazpay.webp"
+  },
+  {
+      "id": 61,
+      "name": "Blockaura",
+      "image": "../src/assets/wallet_images/blockaura.webp"
+  },
+  {
+      "id": 63,
+      "name": "Blockwallet",
+      "image": "../src/assets/wallet_images/blockwallet.webp"
+  },
+  {
+      "id": 64,
+      "name": "Blocto",
+      "image": "../src/assets/wallet_images/blocto.webp"
+  },
+  {
+      "id": 65,
+      "name": "Bloom",
+      "image": "../src/assets/wallet_images/bloom.webp"
+  },
+  {
+      "id": 66,
+      "name": "Bma Wallet",
+      "image": "../src/assets/wallet_images/bma wallet.webp"
+  },
+  {
+      "id": 67,
+      "name": "Bonuz Social Smart Wallet",
+      "image": "../src/assets/wallet_images/bonuz social smart wallet.webp"
+  },
+  {
+      "id": 68,
+      "name": "Brave Wallet",
+      "image": "../src/assets/wallet_images/brave wallet.webp"
+  },
+  {
+      "id": 69,
+      "name": "Bridge Wallet",
+      "image": "../src/assets/wallet_images/bridge wallet.webp"
+  },
+  {
+      "id": 70,
+      "name": "Broearn Wallet",
+      "image": "../src/assets/wallet_images/broearn wallet.webp"
+  },
+  {
+      "id": 71,
+      "name": "Bsc Wallet",
+      "image": "../src/assets/wallet_images/bsc wallet.webp"
+  },
+  {
+      "id": 72,
+      "name": "Burrito",
+      "image": "../src/assets/wallet_images/burrito.webp"
+  },
+  {
+      "id": 73,
+      "name": "Buzzup",
+      "image": "../src/assets/wallet_images/buzzup.webp"
+  },
+  {
+      "id": 74,
+      "name": "Bybit Wallet",
+      "image": "../src/assets/wallet_images/bybit wallet.webp"
+  },
+  {
+      "id": 75,
+      "name": "Bytebank",
+      "image": "../src/assets/wallet_images/bytebank.webp"
+  },
+  {
+      "id": 76,
+      "name": "Caesium",
+      "image": "../src/assets/wallet_images/caesium.webp"
+  },
+  {
+      "id": 77,
+      "name": "Cake Wallet",
+      "image": "../src/assets/wallet_images/cake wallet.webp"
+  },
+  {
+      "id": 78,
+      "name": "Callback",
+      "image": "../src/assets/wallet_images/callback.webp"
+  },
+  {
+      "id": 79,
+      "name": "Campux.Digital",
+      "image": "../src/assets/wallet_images/campux.digital.webp"
+  },
+  {
+      "id": 80,
+      "name": "Catecoin Wallet",
+      "image": "../src/assets/wallet_images/catecoin wallet.webp"
+  },
+  {
+      "id": 81,
+      "name": "Certhis",
+      "image": "../src/assets/wallet_images/certhis.webp"
+  },
+  {
+      "id": 82,
+      "name": "Chain",
+      "image": "../src/assets/wallet_images/chain.webp"
+  },
+  {
+      "id": 83,
+      "name": "Clave",
+      "image": "../src/assets/wallet_images/clave.webp"
+  },
+  {
+      "id": 84,
+      "name": "Clear-Wallet",
+      "image": "../src/assets/wallet_images/clear-wallet.webp"
+  },
+  {
+      "id": 85,
+      "name": "Cling Wallet",
+      "image": "../src/assets/wallet_images/cling wallet.webp"
+  },
+  {
+      "id": 86,
+      "name": "Clot",
+      "image": "../src/assets/wallet_images/clot.webp"
+  },
+  {
+      "id": 87,
+      "name": "Cobalt Wallet",
+      "image": "../src/assets/wallet_images/cobalt wallet.webp"
+  },
+  {
+      "id": 88,
+      "name": "Coca Wallet",
+      "image": "../src/assets/wallet_images/coca wallet.webp"
+  },
+  {
+      "id": 89,
+      "name": "Cogni",
+      "image": "../src/assets/wallet_images/cogni.webp"
+  },
+  {
+      "id": 90,
+      "name": "Coin Wallet",
+      "image": "../src/assets/wallet_images/coin wallet.webp"
+  },
+  {
+      "id": 91,
+      "name": "Coin98 Super Wallet",
+      "image": "../src/assets/wallet_images/coin98 super wallet.webp"
+  },
+  {
+      "id": 92,
+      "name": "Coinbase Wallet",
+      "image": "../src/assets/wallet_images/coinbase wallet.webp"
+  },
+  {
+      "id": 93,
+      "name": "Coincircle",
+      "image": "../src/assets/wallet_images/coincircle.webp"
+  },
+  {
+      "id": 94,
+      "name": "Coinex Wallet",
+      "image": "../src/assets/wallet_images/coinex wallet.webp"
+  },
+  {
+      "id": 95,
+      "name": "Coininn Wallet",
+      "image": "../src/assets/wallet_images/coininn wallet.webp"
+  },
+  {
+      "id": 96,
+      "name": "Coinomi",
+      "image": "../src/assets/wallet_images/coinomi.webp"
+  },
+  {
+      "id": 97,
+      "name": "Coinstats",
+      "image": "../src/assets/wallet_images/coinstats.webp"
+  },
+  {
+      "id": 98,
+      "name": "Coinwallet",
+      "image": "../src/assets/wallet_images/coinwallet.webp"
+  },
+  {
+      "id": 99,
+      "name": "Compass Wallet",
+      "image": "../src/assets/wallet_images/compass wallet.webp"
+  },
+  {
+      "id": 100,
+      "name": "Competence.Id",
+      "image": "../src/assets/wallet_images/competence.id.webp"
+  },
+  {
+      "id": 101,
+      "name": "Concordium",
+      "image": "../src/assets/wallet_images/concordium.webp"
+  },
+  {
+      "id": 102,
+      "name": "Coolwallet",
+      "image": "../src/assets/wallet_images/coolwallet.webp"
+  },
+  {
+      "id": 103,
+      "name": "Copiosa",
+      "image": "../src/assets/wallet_images/copiosa.webp"
+  },
+  {
+      "id": 104,
+      "name": "Core",
+      "image": "../src/assets/wallet_images/core.webp"
+  },
+  {
+      "id": 105,
+      "name": "Cosmostation",
+      "image": "../src/assets/wallet_images/cosmostation.webp"
+  },
+  {
+      "id": 106,
+      "name": "Crossmint",
+      "image": "../src/assets/wallet_images/crossmint.webp"
+  },
+  {
+      "id": 107,
+      "name": "Cryptnox Bridge",
+      "image": "../src/assets/wallet_images/cryptnox bridge.webp"
+  },
+  {
+      "id": 108,
+      "name": "Cryptnox Wallet",
+      "image": "../src/assets/wallet_images/cryptnox wallet.webp"
+  },
+  {
+      "id": 109,
+      "name": "Crypto.Com Onchain",
+      "image": "../src/assets/wallet_images/crypto.com onchain.webp"
+  },
+  {
+      "id": 110,
+      "name": "Cryptokara",
+      "image": "../src/assets/wallet_images/cryptokara.webp"
+  },
+  {
+      "id": 111,
+      "name": "Ctrl Wallet",
+      "image": "../src/assets/wallet_images/ctrl wallet.webp"
+  },
+  {
+      "id": 112,
+      "name": "Cvl Wallet",
+      "image": "../src/assets/wallet_images/cvl wallet.webp"
+  },
+  {
+      "id": 113,
+      "name": "Cyberwallet",
+      "image": "../src/assets/wallet_images/cyberwallet.webp"
+  },
+  {
+      "id": 114,
+      "name": "Cypher Wallet",
+      "image": "../src/assets/wallet_images/cypher wallet.webp"
+  },
+  {
+      "id": 115,
+      "name": "Cypherock Cysync",
+      "image": "../src/assets/wallet_images/cypherock cysync.webp"
+  },
+  {
+      "id": 116,
+      "name": "D'Cent Wallet",
+      "image": "../src/assets/wallet_images/d'cent wallet.webp"
+  },
+  {
+      "id": 117,
+      "name": "Daffione",
+      "image": "../src/assets/wallet_images/daffione.webp"
+  },
+  {
+      "id": 118,
+      "name": "Dawn Wallet",
+      "image": "../src/assets/wallet_images/dawn wallet.webp"
+  },
+  {
+      "id": 119,
+      "name": "Deficloud",
+      "image": "../src/assets/wallet_images/deficloud.webp"
+  },
+  {
+      "id": 120,
+      "name": "Dextrade",
+      "image": "../src/assets/wallet_images/dextrade.webp"
+  },
+  {
+      "id": 121,
+      "name": "Dfinn Wallet",
+      "image": "../src/assets/wallet_images/dfinn wallet.webp"
+  },
+  {
+      "id": 122,
+      "name": "Dgg Wallet",
+      "image": "../src/assets/wallet_images/dgg wallet.webp"
+  },
+  {
+      "id": 123,
+      "name": "Dgpub App",
+      "image": "../src/assets/wallet_images/dgpub app.webp"
+  },
+  {
+      "id": 124,
+      "name": "Didwallet",
+      "image": "../src/assets/wallet_images/didwallet.webp"
+  },
+  {
+      "id": 125,
+      "name": "Dmtoken",
+      "image": "../src/assets/wallet_images/dmtoken.webp"
+  },
+  {
+      "id": 126,
+      "name": "Dohrnii Wallet",
+      "image": "../src/assets/wallet_images/dohrnii wallet.webp"
+  },
+  {
+      "id": 127,
+      "name": "Dollet",
+      "image": "../src/assets/wallet_images/dollet.webp"
+  },
+  {
+      "id": 128,
+      "name": "Dosi Vault",
+      "image": "../src/assets/wallet_images/dosi vault.webp"
+  },
+  {
+      "id": 129,
+      "name": "Drindery Wallet",
+      "image": "../src/assets/wallet_images/drindery wallet.webp"
+  },
+  {
+      "id": 130,
+      "name": "Dropmate",
+      "image": "../src/assets/wallet_images/dropmate.webp"
+  },
+  {
+      "id": 131,
+      "name": "Dropp",
+      "image": "../src/assets/wallet_images/dropp.webp"
+  },
+  {
+      "id": 132,
+      "name": "Ds Security Sa",
+      "image": "../src/assets/wallet_images/ds security sa.webp"
+  },
+  {
+      "id": 133,
+      "name": "Dttd",
+      "image": "../src/assets/wallet_images/dttd.webp"
+  },
+  {
+      "id": 134,
+      "name": "Dynamic",
+      "image": "../src/assets/wallet_images/dynamic.webp"
+  },
+  {
+      "id": 135,
+      "name": "Earth Wallet",
+      "image": "../src/assets/wallet_images/earth wallet.webp"
+  },
+  {
+      "id": 136,
+      "name": "Easy",
+      "image": "../src/assets/wallet_images/easy.webp"
+  },
+  {
+      "id": 137,
+      "name": "Echooo Wallet",
+      "image": "../src/assets/wallet_images/echooo wallet.webp"
+  },
+  {
+      "id": 138,
+      "name": "Ecoin Wallet",
+      "image": "../src/assets/wallet_images/ecoin wallet.webp"
+  },
+  {
+      "id": 139,
+      "name": "Ellipal",
+      "image": "../src/assets/wallet_images/ellipal.webp"
+  },
+  {
+      "id": 140,
+      "name": "Enjin Wallet",
+      "image": "../src/assets/wallet_images/enjin wallet.webp"
+  },
+  {
+      "id": 141,
+      "name": "Enkrypt",
+      "image": "../src/assets/wallet_images/enkrypt.webp"
+  },
+  {
+      "id": 142,
+      "name": "Essentials",
+      "image": "../src/assets/wallet_images/essentials.webp"
+  },
+  {
+      "id": 143,
+      "name": "Eth-Q1",
+      "image": "../src/assets/wallet_images/eth-q1.webp"
+  },
+  {
+      "id": 144,
+      "name": "Ethermail",
+      "image": "../src/assets/wallet_images/ethermail.webp"
+  },
+  {
+      "id": 145,
+      "name": "Ethos Self-Custody Vault",
+      "image": "../src/assets/wallet_images/ethos self-custody vault.webp"
+  },
+  {
+      "id": 146,
+      "name": "Everspace",
+      "image": "../src/assets/wallet_images/everspace.webp"
+  },
+  {
+      "id": 147,
+      "name": "Exodus",
+      "image": "../src/assets/wallet_images/exodus.webp"
+  },
+  {
+      "id": 148,
+      "name": "Facewallet",
+      "image": "../src/assets/wallet_images/facewallet.webp"
+  },
+  {
+      "id": 149,
+      "name": "Family",
+      "image": "../src/assets/wallet_images/family.webp"
+  },
+  {
+      "id": 150,
+      "name": "Fastex Wallet",
+      "image": "../src/assets/wallet_images/fastex wallet.webp"
+  },
+  {
+      "id": 151,
+      "name": "Finoaconnect",
+      "image": "../src/assets/wallet_images/finoaconnect.webp"
+  },
+  {
+      "id": 152,
+      "name": "Fintoken",
+      "image": "../src/assets/wallet_images/fintoken.webp"
+  },
+  {
+      "id": 153,
+      "name": "Fireblocks",
+      "image": "../src/assets/wallet_images/fireblocks.webp"
+  },
+  {
+      "id": 154,
+      "name": "Fizen Wallet",
+      "image": "../src/assets/wallet_images/fizen wallet.webp"
+  },
+  {
+      "id": 155,
+      "name": "Fizz",
+      "image": "../src/assets/wallet_images/fizz.webp"
+  },
+  {
+      "id": 156,
+      "name": "Flash Wallet",
+      "image": "../src/assets/wallet_images/flash wallet.webp"
+  },
+  {
+      "id": 157,
+      "name": "Flooz",
+      "image": "../src/assets/wallet_images/flooz.webp"
+  },
+  {
+      "id": 158,
+      "name": "Flow Wallet",
+      "image": "../src/assets/wallet_images/flow wallet.webp"
+  },
+  {
+      "id": 159,
+      "name": "Fncy Mobile Wallet",
+      "image": "../src/assets/wallet_images/fncy mobile wallet.webp"
+  },
+  {
+      "id": 160,
+      "name": "Foxwallet",
+      "image": "../src/assets/wallet_images/foxwallet.webp"
+  },
+  {
+      "id": 161,
+      "name": "Frame",
+      "image": "../src/assets/wallet_images/frame.webp"
+  },
+  {
+      "id": 162,
+      "name": "Frontier",
+      "image": "../src/assets/wallet_images/frontier.webp"
+  },
+  {
+      "id": 163,
+      "name": "Fxwallet",
+      "image": "../src/assets/wallet_images/fxwallet.webp"
+  },
+  {
+      "id": 164,
+      "name": "Gamestop Wallet",
+      "image": "../src/assets/wallet_images/gamestop wallet.webp"
+  },
+  {
+      "id": 165,
+      "name": "Gamic",
+      "image": "../src/assets/wallet_images/gamic.webp"
+  },
+  {
+      "id": 166,
+      "name": "Gatewallet",
+      "image": "../src/assets/wallet_images/gatewallet.webp"
+  },
+  {
+      "id": 167,
+      "name": "Gem Wallet",
+      "image": "../src/assets/wallet_images/gem wallet.webp"
+  },
+  {
+      "id": 168,
+      "name": "Girin Wallet",
+      "image": "../src/assets/wallet_images/girin wallet.webp"
+  },
+  {
+      "id": 169,
+      "name": "Gm2 Social",
+      "image": "../src/assets/wallet_images/gm2 social.webp"
+  },
+  {
+      "id": 170,
+      "name": "Gooddollar",
+      "image": "../src/assets/wallet_images/gooddollar.webp"
+  },
+  {
+      "id": 171,
+      "name": "Greenhood",
+      "image": "../src/assets/wallet_images/greenhood.webp"
+  },
+  {
+      "id": 172,
+      "name": "Gridlock Wallet",
+      "image": "../src/assets/wallet_images/gridlock wallet.webp"
+  },
+  {
+      "id": 173,
+      "name": "Gryfyn",
+      "image": "../src/assets/wallet_images/gryfyn.webp"
+  },
+  {
+      "id": 174,
+      "name": "Guardiian Wallet",
+      "image": "../src/assets/wallet_images/guardiian wallet.webp"
+  },
+  {
+      "id": 175,
+      "name": "Haha",
+      "image": "../src/assets/wallet_images/haha.webp"
+  },
+  {
+      "id": 176,
+      "name": "Hai By Hacken",
+      "image": "../src/assets/wallet_images/hai by hacken.webp"
+  },
+  {
+      "id": 177,
+      "name": "Halo Wallet",
+      "image": "../src/assets/wallet_images/halo wallet.webp"
+  },
+  {
+      "id": 178,
+      "name": "Haqq Wallet",
+      "image": "../src/assets/wallet_images/haqq wallet.webp"
+  },
+  {
+      "id": 179,
+      "name": "Harti Wallet",
+      "image": "../src/assets/wallet_images/harti wallet.webp"
+  },
+  {
+      "id": 180,
+      "name": "Hashpack",
+      "image": "../src/assets/wallet_images/hashpack.webp"
+  },
+  {
+      "id": 181,
+      "name": "Hb Wallet",
+      "image": "../src/assets/wallet_images/hb wallet.webp"
+  },
+  {
+      "id": 182,
+      "name": "Helix Id",
+      "image": "../src/assets/wallet_images/helix id.webp"
+  },
+  {
+      "id": 183,
+      "name": "Hello",
+      "image": "../src/assets/wallet_images/hello.webp"
+  },
+  {
+      "id": 184,
+      "name": "Here Wallet",
+      "image": "../src/assets/wallet_images/here wallet.webp"
+  },
+  {
+      "id": 185,
+      "name": "Hero Wallet",
+      "image": "../src/assets/wallet_images/hero wallet.webp"
+  },
+  {
+      "id": 186,
+      "name": "Hippo Wallet",
+      "image": "../src/assets/wallet_images/hippo wallet.webp"
+  },
+  {
+      "id": 187,
+      "name": "Holdstation Wallet",
+      "image": "../src/assets/wallet_images/holdstation wallet.webp"
+  },
+  {
+      "id": 188,
+      "name": "Huddln",
+      "image": "../src/assets/wallet_images/huddln.webp"
+  },
+  {
+      "id": 189,
+      "name": "Humbl Wallet",
+      "image": "../src/assets/wallet_images/humbl wallet.webp"
+  },
+  {
+      "id": 190,
+      "name": "Hyperpay",
+      "image": "../src/assets/wallet_images/hyperpay.webp"
+  },
+  {
+      "id": 191,
+      "name": "Iapp",
+      "image": "../src/assets/wallet_images/iapp.webp"
+  },
+  {
+      "id": 192,
+      "name": "Icewal",
+      "image": "../src/assets/wallet_images/icewal.webp"
+  },
+  {
+      "id": 193,
+      "name": "Id Pocket",
+      "image": "../src/assets/wallet_images/id pocket.webp"
+  },
+  {
+      "id": 194,
+      "name": "Imota",
+      "image": "../src/assets/wallet_images/imota.webp"
+  },
+  {
+      "id": 195,
+      "name": "Impact Wallet",
+      "image": "../src/assets/wallet_images/impact wallet.webp"
+  },
+  {
+      "id": 196,
+      "name": "Imtoken",
+      "image": "../src/assets/wallet_images/imtoken.webp"
+  },
+  {
+      "id": 197,
+      "name": "Indigg",
+      "image": "../src/assets/wallet_images/indigg.webp"
+  },
+  {
+      "id": 198,
+      "name": "Infinity Wallet",
+      "image": "../src/assets/wallet_images/infinity wallet.webp"
+  },
+  {
+      "id": 199,
+      "name": "Internet Money Wallet",
+      "image": "../src/assets/wallet_images/internet money wallet.webp"
+  },
+  {
+      "id": 200,
+      "name": "Iopay",
+      "image": "../src/assets/wallet_images/iopay.webp"
+  },
+  {
+      "id": 201,
+      "name": "Ipmb Wallet",
+      "image": "../src/assets/wallet_images/ipmb wallet.webp"
+  },
+  {
+      "id": 202,
+      "name": "Iskra Wallet",
+      "image": "../src/assets/wallet_images/iskra wallet.webp"
+  },
+  {
+      "id": 203,
+      "name": "Islamiwallet",
+      "image": "../src/assets/wallet_images/islamiwallet.webp"
+  },
+  {
+      "id": 204,
+      "name": "Jade Wallet",
+      "image": "../src/assets/wallet_images/jade wallet.webp"
+  },
+  {
+      "id": 205,
+      "name": "Jambo",
+      "image": "../src/assets/wallet_images/jambo.webp"
+  },
+  {
+      "id": 206,
+      "name": "Join Mobile App",
+      "image": "../src/assets/wallet_images/join mobile app.webp"
+  },
+  {
+      "id": 207,
+      "name": "Joyid Passkey",
+      "image": "../src/assets/wallet_images/joyid passkey.webp"
+  },
+  {
+      "id": 208,
+      "name": "Jupiter",
+      "image": "../src/assets/wallet_images/jupiter.webp"
+  },
+  {
+      "id": 209,
+      "name": "Kabila Wallet",
+      "image": "../src/assets/wallet_images/kabila wallet.webp"
+  },
+  {
+      "id": 210,
+      "name": "Kamiyagura",
+      "image": "../src/assets/wallet_images/kamiyagura.webp"
+  },
+  {
+      "id": 211,
+      "name": "Kax-Wallet",
+      "image": "../src/assets/wallet_images/kax-wallet.webp"
+  },
+  {
+      "id": 212,
+      "name": "Kayros",
+      "image": "../src/assets/wallet_images/kayros.webp"
+  },
+  {
+      "id": 213,
+      "name": "Keeper",
+      "image": "../src/assets/wallet_images/keeper.webp"
+  },
+  {
+      "id": 214,
+      "name": "Keepkey Desktop",
+      "image": "../src/assets/wallet_images/keepkey desktop.webp"
+  },
+  {
+      "id": 215,
+      "name": "Kelp",
+      "image": "../src/assets/wallet_images/kelp.webp"
+  },
+  {
+      "id": 216,
+      "name": "Keplr",
+      "image": "../src/assets/wallet_images/keplr.webp"
+  },
+  {
+      "id": 217,
+      "name": "Keychain",
+      "image": "../src/assets/wallet_images/keychain.webp"
+  },
+  {
+      "id": 218,
+      "name": "Keyring Pro",
+      "image": "../src/assets/wallet_images/keyring pro.webp"
+  },
+  {
+      "id": 219,
+      "name": "Kigo",
+      "image": "../src/assets/wallet_images/kigo.webp"
+  },
+  {
+      "id": 220,
+      "name": "Klever Wallet",
+      "image": "../src/assets/wallet_images/klever wallet.webp"
+  },
+  {
+      "id": 221,
+      "name": "Klip",
+      "image": "../src/assets/wallet_images/klip.webp"
+  },
+  {
+      "id": 222,
+      "name": "Koala Wallet",
+      "image": "../src/assets/wallet_images/koala wallet.webp"
+  },
+  {
+      "id": 223,
+      "name": "Komet",
+      "image": "../src/assets/wallet_images/komet.webp"
+  },
+  {
+      "id": 224,
+      "name": "Konio",
+      "image": "../src/assets/wallet_images/konio.webp"
+  },
+  {
+      "id": 225,
+      "name": "Kraken Wallet",
+      "image": "../src/assets/wallet_images/kraken wallet.webp"
+  },
+  {
+      "id": 226,
+      "name": "Kresus Superapp",
+      "image": "../src/assets/wallet_images/kresus superapp.webp"
+  },
+  {
+      "id": 227,
+      "name": "Kriptomat",
+      "image": "../src/assets/wallet_images/kriptomat.webp"
+  },
+  {
+      "id": 228,
+      "name": "Kriptonio",
+      "image": "../src/assets/wallet_images/kriptonio.webp"
+  },
+  {
+      "id": 229,
+      "name": "Kryptogo Wallet",
+      "image": "../src/assets/wallet_images/kryptogo wallet.webp"
+  },
+  {
+      "id": 230,
+      "name": "Krystal",
+      "image": "../src/assets/wallet_images/krystal.webp"
+  },
+  {
+      "id": 231,
+      "name": "Ktc",
+      "image": "../src/assets/wallet_images/ktc.webp"
+  },
+  {
+      "id": 232,
+      "name": "Kucoin Web3 Wallet",
+      "image": "../src/assets/wallet_images/kucoin web3 wallet.webp"
+  },
+  {
+      "id": 233,
+      "name": "Leap",
+      "image": "../src/assets/wallet_images/leap.webp"
+  },
+  {
+      "id": 234,
+      "name": "Leather",
+      "image": "../src/assets/wallet_images/leather.webp"
+  },
+  {
+      "id": 235,
+      "name": "Legacy Wallet",
+      "image": "../src/assets/wallet_images/legacy wallet.webp"
+  },
+  {
+      "id": 236,
+      "name": "Legionnetwork",
+      "image": "../src/assets/wallet_images/legionnetwork.webp"
+  },
+  {
+      "id": 237,
+      "name": "Levain",
+      "image": "../src/assets/wallet_images/levain.webp"
+  },
+  {
+      "id": 238,
+      "name": "Libera",
+      "image": "../src/assets/wallet_images/libera.webp"
+  },
+  {
+      "id": 239,
+      "name": "Lichtbit",
+      "image": "../src/assets/wallet_images/lichtbit.webp"
+  },
+  {
+      "id": 240,
+      "name": "Lif3 Wallet",
+      "image": "../src/assets/wallet_images/lif3 wallet.webp"
+  },
+  {
+      "id": 241,
+      "name": "Life Defi",
+      "image": "../src/assets/wallet_images/life defi.webp"
+  },
+  {
+      "id": 242,
+      "name": "Likerland App",
+      "image": "../src/assets/wallet_images/likerland app.webp"
+  },
+  {
+      "id": 243,
+      "name": "Linen",
+      "image": "../src/assets/wallet_images/linen.webp"
+  },
+  {
+      "id": 244,
+      "name": "Lobstr Wallet",
+      "image": "../src/assets/wallet_images/lobstr wallet.webp"
+  },
+  {
+      "id": 245,
+      "name": "Localtrade Wallet",
+      "image": "../src/assets/wallet_images/localtrade wallet.webp"
+  },
+  {
+      "id": 246,
+      "name": "Locker Token",
+      "image": "../src/assets/wallet_images/locker token.webp"
+  },
+  {
+      "id": 247,
+      "name": "Lode Wallet",
+      "image": "../src/assets/wallet_images/lode wallet.webp"
+  },
+  {
+      "id": 248,
+      "name": "Loopring",
+      "image": "../src/assets/wallet_images/loopring.webp"
+  },
+  {
+      "id": 249,
+      "name": "M1Nty",
+      "image": "../src/assets/wallet_images/m1nty.webp"
+  },
+  {
+      "id": 250,
+      "name": "Magic Eden",
+      "image": "../src/assets/wallet_images/magic eden.webp"
+  },
+  {
+      "id": 251,
+      "name": "Marble",
+      "image": "../src/assets/wallet_images/marble.webp"
+  },
+  {
+      "id": 252,
+      "name": "Mathwallet",
+      "image": "../src/assets/wallet_images/mathwallet.webp"
+  },
+  {
+      "id": 253,
+      "name": "Mdao Wallet",
+      "image": "../src/assets/wallet_images/mdao wallet.webp"
+  },
+  {
+      "id": 254,
+      "name": "Me Wallet",
+      "image": "../src/assets/wallet_images/me wallet.webp"
+  },
+  {
+      "id": 255,
+      "name": "Meldapp",
+      "image": "../src/assets/wallet_images/meldapp.webp"
+  },
+  {
+      "id": 256,
+      "name": "Meta-Wonder-Verse",
+      "image": "../src/assets/wallet_images/meta-wonder-verse.webp"
+  },
+  {
+      "id": 257,
+      "name": "Metamask",
+      "image": "../src/assets/wallet_images/metamask.webp"
+  },
+  {
+      "id": 258,
+      "name": "Metawallet",
+      "image": "../src/assets/wallet_images/metawallet.webp"
+  },
+  {
+      "id": 259,
+      "name": "Meter Wallet",
+      "image": "../src/assets/wallet_images/meter wallet.webp"
+  },
+  {
+      "id": 260,
+      "name": "Metrapo Wallet",
+      "image": "../src/assets/wallet_images/metrapo wallet.webp"
+  },
+  {
+      "id": 261,
+      "name": "Mew Wallet",
+      "image": "../src/assets/wallet_images/mew wallet.webp"
+  },
+  {
+      "id": 262,
+      "name": "Mg",
+      "image": "../src/assets/wallet_images/mg.webp"
+  },
+  {
+      "id": 263,
+      "name": "Midoin",
+      "image": "../src/assets/wallet_images/midoin.webp"
+  },
+  {
+      "id": 264,
+      "name": "Minerva Wallet",
+      "image": "../src/assets/wallet_images/minerva wallet.webp"
+  },
+  {
+      "id": 265,
+      "name": "Mirai App",
+      "image": "../src/assets/wallet_images/mirai app.webp"
+  },
+  {
+      "id": 266,
+      "name": "Mixin Messenger",
+      "image": "../src/assets/wallet_images/mixin messenger.webp"
+  },
+  {
+      "id": 267,
+      "name": "Modular Wallet Prod",
+      "image": "../src/assets/wallet_images/modular wallet prod.webp"
+  },
+  {
+      "id": 268,
+      "name": "Monarch Wallet",
+      "image": "../src/assets/wallet_images/monarch wallet.webp"
+  },
+  {
+      "id": 269,
+      "name": "Moonpay Account",
+      "image": "../src/assets/wallet_images/moonpay account.webp"
+  },
+  {
+      "id": 270,
+      "name": "Moonstake",
+      "image": "../src/assets/wallet_images/moonstake.webp"
+  },
+  {
+      "id": 271,
+      "name": "Mpcvault",
+      "image": "../src/assets/wallet_images/mpcvault.webp"
+  },
+  {
+      "id": 272,
+      "name": "Multix",
+      "image": "../src/assets/wallet_images/multix.webp"
+  },
+  {
+      "id": 273,
+      "name": "Muza",
+      "image": "../src/assets/wallet_images/muza.webp"
+  },
+  {
+      "id": 274,
+      "name": "My Cloud Wallet",
+      "image": "../src/assets/wallet_images/my cloud wallet.webp"
+  },
+  {
+      "id": 275,
+      "name": "Mywallid",
+      "image": "../src/assets/wallet_images/mywallid.webp"
+  },
+  {
+      "id": 276,
+      "name": "N3Mus",
+      "image": "../src/assets/wallet_images/n3mus.webp"
+  },
+  {
+      "id": 277,
+      "name": "Nabox",
+      "image": "../src/assets/wallet_images/nabox.webp"
+  },
+  {
+      "id": 278,
+      "name": "Nabox2",
+      "image": "../src/assets/wallet_images/nabox2.webp"
+  },
+  {
+      "id": 279,
+      "name": "Nash",
+      "image": "../src/assets/wallet_images/nash.webp"
+  },
+  {
+      "id": 280,
+      "name": "Neon Wallet",
+      "image": "../src/assets/wallet_images/neon wallet.webp"
+  },
+  {
+      "id": 281,
+      "name": "Neopin",
+      "image": "../src/assets/wallet_images/neopin.webp"
+  },
+  {
+      "id": 282,
+      "name": "Nest Wallet",
+      "image": "../src/assets/wallet_images/nest wallet.webp"
+  },
+  {
+      "id": 283,
+      "name": "Newmoney",
+      "image": "../src/assets/wallet_images/newmoney.webp"
+  },
+  {
+      "id": 284,
+      "name": "Nicegram Wallet",
+      "image": "../src/assets/wallet_images/nicegram wallet.webp"
+  },
+  {
+      "id": 285,
+      "name": "Nightly",
+      "image": "../src/assets/wallet_images/nightly.webp"
+  },
+  {
+      "id": 286,
+      "name": "Nodle",
+      "image": "../src/assets/wallet_images/nodle.webp"
+  },
+  {
+      "id": 287,
+      "name": "Nof",
+      "image": "../src/assets/wallet_images/nof.webp"
+  },
+  {
+      "id": 288,
+      "name": "Nonbank",
+      "image": "../src/assets/wallet_images/nonbank.webp"
+  },
+  {
+      "id": 289,
+      "name": "Noone Wallet",
+      "image": "../src/assets/wallet_images/noone wallet.webp"
+  },
+  {
+      "id": 290,
+      "name": "Nova Spektr",
+      "image": "../src/assets/wallet_images/nova spektr.webp"
+  },
+  {
+      "id": 291,
+      "name": "Nova Wallet",
+      "image": "../src/assets/wallet_images/nova wallet.webp"
+  },
+  {
+      "id": 292,
+      "name": "Nufi",
+      "image": "../src/assets/wallet_images/nufi.webp"
+  },
+  {
+      "id": 293,
+      "name": "Nufinetes",
+      "image": "../src/assets/wallet_images/nufinetes.webp"
+  },
+  {
+      "id": 294,
+      "name": "Numio",
+      "image": "../src/assets/wallet_images/numio.webp"
+  },
+  {
+      "id": 295,
+      "name": "Numo Wallet",
+      "image": "../src/assets/wallet_images/numo wallet.webp"
+  },
+  {
+      "id": 296,
+      "name": "Oasys Passport",
+      "image": "../src/assets/wallet_images/oasys passport.webp"
+  },
+  {
+      "id": 297,
+      "name": "Obvious",
+      "image": "../src/assets/wallet_images/obvious.webp"
+  },
+  {
+      "id": 298,
+      "name": "Oisy",
+      "image": "../src/assets/wallet_images/oisy.webp"
+  },
+  {
+      "id": 299,
+      "name": "Okse Wallet",
+      "image": "../src/assets/wallet_images/okse wallet.webp"
+  },
+  {
+      "id": 300,
+      "name": "Okto",
+      "image": "../src/assets/wallet_images/okto.webp"
+  },
+  {
+      "id": 301,
+      "name": "Okx Wallet",
+      "image": "../src/assets/wallet_images/okx wallet.webp"
+  },
+  {
+      "id": 302,
+      "name": "Omni",
+      "image": "../src/assets/wallet_images/omni.webp"
+  },
+  {
+      "id": 303,
+      "name": "Onekey",
+      "image": "../src/assets/wallet_images/onekey.webp"
+  },
+  {
+      "id": 304,
+      "name": "Onto",
+      "image": "../src/assets/wallet_images/onto.webp"
+  },
+  {
+      "id": 305,
+      "name": "Open Wallet",
+      "image": "../src/assets/wallet_images/open wallet.webp"
+  },
+  {
+      "id": 306,
+      "name": "Opera Crypto Wallet",
+      "image": "../src/assets/wallet_images/opera crypto wallet.webp"
+  },
+  {
+      "id": 307,
+      "name": "Opto Wallet",
+      "image": "../src/assets/wallet_images/opto wallet.webp"
+  },
+  {
+      "id": 308,
+      "name": "Opz Wallet",
+      "image": "../src/assets/wallet_images/opz wallet.webp"
+  },
+  {
+      "id": 309,
+      "name": "Orion",
+      "image": "../src/assets/wallet_images/orion.webp"
+  },
+  {
+      "id": 310,
+      "name": "Overflex",
+      "image": "../src/assets/wallet_images/overflex.webp"
+  },
+  {
+      "id": 311,
+      "name": "Owallet",
+      "image": "../src/assets/wallet_images/owallet.webp"
+  },
+  {
+      "id": 312,
+      "name": "Ownbit",
+      "image": "../src/assets/wallet_images/ownbit.webp"
+  },
+  {
+      "id": 313,
+      "name": "Oxalus Wallet",
+      "image": "../src/assets/wallet_images/oxalus wallet.webp"
+  },
+  {
+      "id": 314,
+      "name": "Ozonewallet",
+      "image": "../src/assets/wallet_images/ozonewallet.webp"
+  },
+  {
+      "id": 315,
+      "name": "Pali Wallet",
+      "image": "../src/assets/wallet_images/pali wallet.webp"
+  },
+  {
+      "id": 316,
+      "name": "Panaroma Wallet",
+      "image": "../src/assets/wallet_images/panaroma wallet.webp"
+  },
+  {
+      "id": 317,
+      "name": "Pandoshi Wallet",
+      "image": "../src/assets/wallet_images/pandoshi wallet.webp"
+  },
+  {
+      "id": 318,
+      "name": "Paper",
+      "image": "../src/assets/wallet_images/paper.webp"
+  },
+  {
+      "id": 319,
+      "name": "Para",
+      "image": "../src/assets/wallet_images/para.webp"
+  },
+  {
+      "id": 320,
+      "name": "Paraswap Wallet",
+      "image": "../src/assets/wallet_images/paraswap wallet.webp"
+  },
+  {
+      "id": 321,
+      "name": "Pass App",
+      "image": "../src/assets/wallet_images/pass app.webp"
+  },
+  {
+      "id": 322,
+      "name": "Passpay Wallet",
+      "image": "../src/assets/wallet_images/passpay wallet.webp"
+  },
+  {
+      "id": 323,
+      "name": "Paybolt",
+      "image": "../src/assets/wallet_images/paybolt.webp"
+  },
+  {
+      "id": 324,
+      "name": "Payperless",
+      "image": "../src/assets/wallet_images/payperless.webp"
+  },
+  {
+      "id": 325,
+      "name": "Peakdefi",
+      "image": "../src/assets/wallet_images/peakdefi.webp"
+  },
+  {
+      "id": 326,
+      "name": "Phantom",
+      "image": "../src/assets/wallet_images/phantom.webp"
+  },
+  {
+      "id": 327,
+      "name": "Pier",
+      "image": "../src/assets/wallet_images/pier.webp"
+  },
+  {
+      "id": 328,
+      "name": "Pillar",
+      "image": "../src/assets/wallet_images/pillar.webp"
+  },
+  {
+      "id": 329,
+      "name": "Pintu",
+      "image": "../src/assets/wallet_images/pintu.webp"
+  },
+  {
+      "id": 330,
+      "name": "Pitaka",
+      "image": "../src/assets/wallet_images/pitaka.webp"
+  },
+  {
+      "id": 331,
+      "name": "Plasma Wallet",
+      "image": "../src/assets/wallet_images/plasma wallet.webp"
+  },
+  {
+      "id": 332,
+      "name": "Plena-App",
+      "image": "../src/assets/wallet_images/plena-app.webp"
+  },
+  {
+      "id": 333,
+      "name": "Pltwallet",
+      "image": "../src/assets/wallet_images/pltwallet.webp"
+  },
+  {
+      "id": 334,
+      "name": "Plumaa Id",
+      "image": "../src/assets/wallet_images/plumaa id.webp"
+  },
+  {
+      "id": 335,
+      "name": "Plus Wallet",
+      "image": "../src/assets/wallet_images/plus wallet.webp"
+  },
+  {
+      "id": 336,
+      "name": "Plutope",
+      "image": "../src/assets/wallet_images/plutope.webp"
+  },
+  {
+      "id": 337,
+      "name": "Pockie",
+      "image": "../src/assets/wallet_images/pockie.webp"
+  },
+  {
+      "id": 338,
+      "name": "Poolswallet",
+      "image": "../src/assets/wallet_images/poolswallet.webp"
+  },
+  {
+      "id": 339,
+      "name": "Portawallet",
+      "image": "../src/assets/wallet_images/portawallet.webp"
+  },
+  {
+      "id": 340,
+      "name": "Prema Wallet",
+      "image": "../src/assets/wallet_images/prema wallet.webp"
+  },
+  {
+      "id": 341,
+      "name": "Pundi Wallet",
+      "image": "../src/assets/wallet_images/pundi wallet.webp"
+  },
+  {
+      "id": 342,
+      "name": "Puzzle Wallet",
+      "image": "../src/assets/wallet_images/puzzle wallet.webp"
+  },
+  {
+      "id": 343,
+      "name": "Qoin Wallet",
+      "image": "../src/assets/wallet_images/qoin wallet.webp"
+  },
+  {
+      "id": 344,
+      "name": "Qubic Wallet",
+      "image": "../src/assets/wallet_images/qubic wallet.webp"
+  },
+  {
+      "id": 345,
+      "name": "Rabby",
+      "image": "../src/assets/wallet_images/rabby.webp"
+  },
+  {
+      "id": 346,
+      "name": "Rainbow",
+      "image": "../src/assets/wallet_images/rainbow.webp"
+  },
+  {
+      "id": 347,
+      "name": "Rakuten Wallet",
+      "image": "../src/assets/wallet_images/rakuten wallet.webp"
+  },
+  {
+      "id": 348,
+      "name": "Ready",
+      "image": "../src/assets/wallet_images/ready.webp"
+  },
+  {
+      "id": 349,
+      "name": "Renegade",
+      "image": "../src/assets/wallet_images/renegade.webp"
+  },
+  {
+      "id": 350,
+      "name": "Reunit",
+      "image": "../src/assets/wallet_images/reunit.webp"
+  },
+  {
+      "id": 351,
+      "name": "Ricewallet",
+      "image": "../src/assets/wallet_images/ricewallet.webp"
+  },
+  {
+      "id": 352,
+      "name": "Ripio Portal",
+      "image": "../src/assets/wallet_images/ripio portal.webp"
+  },
+  {
+      "id": 353,
+      "name": "Roam",
+      "image": "../src/assets/wallet_images/roam.webp"
+  },
+  {
+      "id": 354,
+      "name": "Robinhood Wallet",
+      "image": "../src/assets/wallet_images/robinhood wallet.webp"
+  },
+  {
+      "id": 355,
+      "name": "Ronin Wallet",
+      "image": "../src/assets/wallet_images/ronin wallet.webp"
+  },
+  {
+      "id": 356,
+      "name": "Rovi Money",
+      "image": "../src/assets/wallet_images/rovi money.webp"
+  },
+  {
+      "id": 357,
+      "name": "Rss Wallet",
+      "image": "../src/assets/wallet_images/rss wallet.webp"
+  },
+  {
+      "id": 358,
+      "name": "Ryipay",
+      "image": "../src/assets/wallet_images/ryipay.webp"
+  },
+  {
+      "id": 359,
+      "name": "Sa Assistant",
+      "image": "../src/assets/wallet_images/sa assistant.webp"
+  },
+  {
+      "id": 360,
+      "name": "Saakuru All-In-One Crypto App",
+      "image": "../src/assets/wallet_images/saakuru all-in-one crypto app.webp"
+  },
+  {
+      "id": 361,
+      "name": "Sabay Wallet App",
+      "image": "../src/assets/wallet_images/sabay wallet app.webp"
+  },
+  {
+      "id": 362,
+      "name": "Safe App Syscoin",
+      "image": "../src/assets/wallet_images/safe app syscoin.webp"
+  },
+  {
+      "id": 363,
+      "name": "Safemoon",
+      "image": "../src/assets/wallet_images/safemoon.webp"
+  },
+  {
+      "id": 364,
+      "name": "Safepal",
+      "image": "../src/assets/wallet_images/safepal.webp"
+  },
+  {
+      "id": 365,
+      "name": "Safewallet",
+      "image": "../src/assets/wallet_images/safewallet.webp"
+  },
+  {
+      "id": 366,
+      "name": "Sahal Wallet",
+      "image": "../src/assets/wallet_images/sahal wallet.webp"
+  },
+  {
+      "id": 367,
+      "name": "Saitapro",
+      "image": "../src/assets/wallet_images/saitapro.webp"
+  },
+  {
+      "id": 368,
+      "name": "Samplew",
+      "image": "../src/assets/wallet_images/samplew.webp"
+  },
+  {
+      "id": 369,
+      "name": "Scramberrywallet",
+      "image": "../src/assets/wallet_images/scramberrywallet.webp"
+  },
+  {
+      "id": 370,
+      "name": "Scramble",
+      "image": "../src/assets/wallet_images/scramble.webp"
+  },
+  {
+      "id": 371,
+      "name": "Secux",
+      "image": "../src/assets/wallet_images/secux.webp"
+  },
+  {
+      "id": 372,
+      "name": "Sequel Wallet",
+      "image": "../src/assets/wallet_images/sequel wallet.webp"
+  },
+  {
+      "id": 373,
+      "name": "Sequence Wallet",
+      "image": "../src/assets/wallet_images/sequence wallet.webp"
+  },
+  {
+      "id": 374,
+      "name": "Shapeshift",
+      "image": "../src/assets/wallet_images/shapeshift.webp"
+  },
+  {
+      "id": 375,
+      "name": "Shefi",
+      "image": "../src/assets/wallet_images/shefi.webp"
+  },
+  {
+      "id": 376,
+      "name": "Shido App",
+      "image": "../src/assets/wallet_images/shido app.webp"
+  },
+  {
+      "id": 377,
+      "name": "Shimmersea",
+      "image": "../src/assets/wallet_images/shimmersea.webp"
+  },
+  {
+      "id": 378,
+      "name": "Shinobi-Wallet",
+      "image": "../src/assets/wallet_images/shinobi-wallet.webp"
+  },
+  {
+      "id": 379,
+      "name": "Silk",
+      "image": "../src/assets/wallet_images/silk.webp"
+  },
+  {
+      "id": 380,
+      "name": "Sinohope",
+      "image": "../src/assets/wallet_images/sinohope.webp"
+  },
+  {
+      "id": 381,
+      "name": "Sinum",
+      "image": "../src/assets/wallet_images/sinum.webp"
+  },
+  {
+      "id": 382,
+      "name": "Sistemas",
+      "image": "../src/assets/wallet_images/sistemas.webp"
+  },
+  {
+      "id": 383,
+      "name": "Slingshot Wallet",
+      "image": "../src/assets/wallet_images/slingshot wallet.webp"
+  },
+  {
+      "id": 384,
+      "name": "Smart.Baby",
+      "image": "../src/assets/wallet_images/smart.baby.webp"
+  },
+  {
+      "id": 385,
+      "name": "Smartrush",
+      "image": "../src/assets/wallet_images/smartrush.webp"
+  },
+  {
+      "id": 386,
+      "name": "Solace",
+      "image": "../src/assets/wallet_images/solace.webp"
+  },
+  {
+      "id": 387,
+      "name": "Solflare",
+      "image": "../src/assets/wallet_images/solflare.webp"
+  },
+  {
+      "id": 388,
+      "name": "Solutions Team Test",
+      "image": "../src/assets/wallet_images/solutions team test.webp"
+  },
+  {
+      "id": 389,
+      "name": "Soulswap",
+      "image": "../src/assets/wallet_images/soulswap.webp"
+  },
+  {
+      "id": 390,
+      "name": "Spatium",
+      "image": "../src/assets/wallet_images/spatium.webp"
+  },
+  {
+      "id": 391,
+      "name": "Spot On Chain App",
+      "image": "../src/assets/wallet_images/spot on chain app.webp"
+  },
+  {
+      "id": 392,
+      "name": "Stasis Wallet",
+      "image": "../src/assets/wallet_images/stasis wallet.webp"
+  },
+  {
+      "id": 393,
+      "name": "Status",
+      "image": "../src/assets/wallet_images/status.webp"
+  },
+  {
+      "id": 394,
+      "name": "Stickey Wallet",
+      "image": "../src/assets/wallet_images/stickey wallet.webp"
+  },
+  {
+      "id": 395,
+      "name": "Streakk Wallet",
+      "image": "../src/assets/wallet_images/streakk wallet.webp"
+  },
+  {
+      "id": 396,
+      "name": "Strikex Wallet",
+      "image": "../src/assets/wallet_images/strikex wallet.webp"
+  },
+  {
+      "id": 397,
+      "name": "Subwallet",
+      "image": "../src/assets/wallet_images/subwallet.webp"
+  },
+  {
+      "id": 398,
+      "name": "Suku Wallet",
+      "image": "../src/assets/wallet_images/suku wallet.webp"
+  },
+  {
+      "id": 399,
+      "name": "Superwallet",
+      "image": "../src/assets/wallet_images/superwallet.webp"
+  },
+  {
+      "id": 400,
+      "name": "Swop",
+      "image": "../src/assets/wallet_images/swop.webp"
+  },
+  {
+      "id": 401,
+      "name": "T+ Wallet",
+      "image": "../src/assets/wallet_images/t+ wallet.webp"
+  },
+  {
+      "id": 402,
+      "name": "Taho",
+      "image": "../src/assets/wallet_images/taho.webp"
+  },
+  {
+      "id": 403,
+      "name": "Talisman Wallet",
+      "image": "../src/assets/wallet_images/talisman wallet.webp"
+  },
+  {
+      "id": 404,
+      "name": "Talken Wallet",
+      "image": "../src/assets/wallet_images/talken wallet.webp"
+  },
+  {
+      "id": 405,
+      "name": "Tangem Wallet",
+      "image": "../src/assets/wallet_images/tangem wallet.webp"
+  },
+  {
+      "id": 406,
+      "name": "Tastycrypto",
+      "image": "../src/assets/wallet_images/tastycrypto.webp"
+  },
+  {
+      "id": 407,
+      "name": "Tellaw Wallet",
+      "image": "../src/assets/wallet_images/tellaw wallet.webp"
+  },
+  {
+      "id": 408,
+      "name": "The Pulse Wallet",
+      "image": "../src/assets/wallet_images/the pulse wallet.webp"
+  },
+  {
+      "id": 409,
+      "name": "Theta Wallet",
+      "image": "../src/assets/wallet_images/theta wallet.webp"
+  },
+  {
+      "id": 410,
+      "name": "Thirdweb",
+      "image": "../src/assets/wallet_images/thirdweb.webp"
+  },
+  {
+      "id": 411,
+      "name": "Tholos",
+      "image": "../src/assets/wallet_images/tholos.webp"
+  },
+  {
+      "id": 412,
+      "name": "Thorwallet",
+      "image": "../src/assets/wallet_images/thorwallet.webp"
+  },
+  {
+      "id": 413,
+      "name": "Tidus Wallet",
+      "image": "../src/assets/wallet_images/tidus wallet.webp"
+  },
+  {
+      "id": 414,
+      "name": "Timeless Wallet",
+      "image": "../src/assets/wallet_images/timeless wallet.webp"
+  },
+  {
+      "id": 415,
+      "name": "Timeless X",
+      "image": "../src/assets/wallet_images/timeless x.webp"
+  },
+  {
+      "id": 416,
+      "name": "Tobewallet",
+      "image": "../src/assets/wallet_images/tobewallet.webp"
+  },
+  {
+      "id": 417,
+      "name": "Tobi",
+      "image": "../src/assets/wallet_images/tobi.webp"
+  },
+  {
+      "id": 418,
+      "name": "Tofee Wallet Official",
+      "image": "../src/assets/wallet_images/tofee wallet official.webp"
+  },
+  {
+      "id": 419,
+      "name": "Tokenpocket",
+      "image": "../src/assets/wallet_images/tokenpocket.webp"
+  },
+  {
+      "id": 420,
+      "name": "Tokoin Wallet",
+      "image": "../src/assets/wallet_images/tokoin wallet.webp"
+  },
+  {
+      "id": 421,
+      "name": "Tomi Wallet",
+      "image": "../src/assets/wallet_images/tomi wallet.webp"
+  },
+  {
+      "id": 422,
+      "name": "Tomo Wallet",
+      "image": "../src/assets/wallet_images/tomo wallet.webp"
+  },
+  {
+      "id": 423,
+      "name": "Torus",
+      "image": "../src/assets/wallet_images/torus.webp"
+  },
+  {
+      "id": 424,
+      "name": "Transi",
+      "image": "../src/assets/wallet_images/transi.webp"
+  },
+  {
+      "id": 425,
+      "name": "Trust Asset Wallet",
+      "image": "../src/assets/wallet_images/trust asset wallet.webp"
+  },
+  {
+      "id": 426,
+      "name": "Trust Wallet",
+      "image": "../src/assets/wallet_images/trust wallet.webp"
+  },
+  {
+      "id": 427,
+      "name": "Trustee Wallet",
+      "image": "../src/assets/wallet_images/trustee wallet.webp"
+  },
+  {
+      "id": 428,
+      "name": "Trustkeys Web3 Socialfi",
+      "image": "../src/assets/wallet_images/trustkeys web3 socialfi.webp"
+  },
+  {
+      "id": 429,
+      "name": "U2U Wallet",
+      "image": "../src/assets/wallet_images/u2u wallet.webp"
+  },
+  {
+      "id": 430,
+      "name": "Uiic",
+      "image": "../src/assets/wallet_images/uiic.webp"
+  },
+  {
+      "id": 431,
+      "name": "Ukiss Hub",
+      "image": "../src/assets/wallet_images/ukiss hub.webp"
+  },
+  {
+      "id": 432,
+      "name": "Ultimate",
+      "image": "../src/assets/wallet_images/ultimate.webp"
+  },
+  {
+      "id": 433,
+      "name": "Una Wallet",
+      "image": "../src/assets/wallet_images/una wallet.webp"
+  },
+  {
+      "id": 434,
+      "name": "Uniblow",
+      "image": "../src/assets/wallet_images/uniblow.webp"
+  },
+  {
+      "id": 435,
+      "name": "Unido",
+      "image": "../src/assets/wallet_images/unido.webp"
+  },
+  {
+      "id": 436,
+      "name": "Unipass Wallet",
+      "image": "../src/assets/wallet_images/unipass wallet.webp"
+  },
+  {
+      "id": 437,
+      "name": "Uniswap Wallet",
+      "image": "../src/assets/wallet_images/uniswap wallet.webp"
+  },
+  {
+      "id": 438,
+      "name": "Unity Wallet",
+      "image": "../src/assets/wallet_images/unity wallet.webp"
+  },
+  {
+      "id": 439,
+      "name": "Universalprofiles",
+      "image": "../src/assets/wallet_images/universalprofiles.webp"
+  },
+  {
+      "id": 440,
+      "name": "Unstoppable Domains",
+      "image": "../src/assets/wallet_images/unstoppable domains.webp"
+  },
+  {
+      "id": 441,
+      "name": "Unstoppable Wallet",
+      "image": "../src/assets/wallet_images/unstoppable wallet.webp"
+  },
+  {
+      "id": 442,
+      "name": "Upbond Wallet",
+      "image": "../src/assets/wallet_images/upbond wallet.webp"
+  },
+  {
+      "id": 443,
+      "name": "Uptn",
+      "image": "../src/assets/wallet_images/uptn.webp"
+  },
+  {
+      "id": 444,
+      "name": "Utorg",
+      "image": "../src/assets/wallet_images/utorg.webp"
+  },
+  {
+      "id": 445,
+      "name": "Uvtoken",
+      "image": "../src/assets/wallet_images/uvtoken.webp"
+  },
+  {
+      "id": 446,
+      "name": "Valora",
+      "image": "../src/assets/wallet_images/valora.webp"
+  },
+  {
+      "id": 447,
+      "name": "Venly",
+      "image": "../src/assets/wallet_images/venly.webp"
+  },
+  {
+      "id": 448,
+      "name": "Verso",
+      "image": "../src/assets/wallet_images/verso.webp"
+  },
+  {
+      "id": 449,
+      "name": "Veworld Mobile",
+      "image": "../src/assets/wallet_images/veworld mobile.webp"
+  },
+  {
+      "id": 450,
+      "name": "Vgx Wallet",
+      "image": "../src/assets/wallet_images/vgx wallet.webp"
+  },
+  {
+      "id": 451,
+      "name": "Vive Wallet",
+      "image": "../src/assets/wallet_images/vive wallet.webp"
+  },
+  {
+      "id": 452,
+      "name": "Volt Wallet",
+      "image": "../src/assets/wallet_images/volt wallet.webp"
+  },
+  {
+      "id": 453,
+      "name": "Wallacy",
+      "image": "../src/assets/wallet_images/wallacy.webp"
+  },
+  {
+      "id": 454,
+      "name": "Wallet 3",
+      "image": "../src/assets/wallet_images/wallet 3.webp"
+  },
+  {
+      "id": 455,
+      "name": "Wallypto",
+      "image": "../src/assets/wallet_images/wallypto.webp"
+  },
+  {
+      "id": 456,
+      "name": "Webauth",
+      "image": "../src/assets/wallet_images/webauth.webp"
+  },
+  {
+      "id": 457,
+      "name": "Wemix Play",
+      "image": "../src/assets/wallet_images/wemix play.webp"
+  },
+  {
+      "id": 458,
+      "name": "Wemixwallet",
+      "image": "../src/assets/wallet_images/wemixwallet.webp"
+  },
+  {
+      "id": 459,
+      "name": "Wigwam",
+      "image": "../src/assets/wallet_images/wigwam.webp"
+  },
+  {
+      "id": 460,
+      "name": "Wombat",
+      "image": "../src/assets/wallet_images/wombat.webp"
+  },
+  {
+      "id": 461,
+      "name": "Wow Earn",
+      "image": "../src/assets/wallet_images/wow earn.webp"
+  },
+  {
+      "id": 462,
+      "name": "X9Wallet",
+      "image": "../src/assets/wallet_images/x9wallet.webp"
+  },
+  {
+      "id": 463,
+      "name": "Xcapit",
+      "image": "../src/assets/wallet_images/xcapit.webp"
+  },
+  {
+      "id": 464,
+      "name": "Xellar",
+      "image": "../src/assets/wallet_images/xellar.webp"
+  },
+  {
+      "id": 465,
+      "name": "Xportal",
+      "image": "../src/assets/wallet_images/xportal.webp"
+  },
+  {
+      "id": 466,
+      "name": "Xucre",
+      "image": "../src/assets/wallet_images/xucre.webp"
+  },
+  {
+      "id": 467,
+      "name": "Xverse",
+      "image": "../src/assets/wallet_images/xverse.webp"
+  },
+  {
+      "id": 468,
+      "name": "Youba",
+      "image": "../src/assets/wallet_images/youba.webp"
+  },
+  {
+      "id": 469,
+      "name": "Yuse Wallet",
+      "image": "../src/assets/wallet_images/yuse wallet.webp"
+  },
+  {
+      "id": 470,
+      "name": "Zeal",
+      "image": "../src/assets/wallet_images/zeal.webp"
+  },
+  {
+      "id": 471,
+      "name": "Zelcore",
+      "image": "../src/assets/wallet_images/zelcore.webp"
+  },
+  {
+      "id": 472,
+      "name": "Zelus Wallet",
+      "image": "../src/assets/wallet_images/zelus wallet.webp"
+  },
+  {
+      "id": 473,
+      "name": "Zengo Wallet",
+      "image": "../src/assets/wallet_images/zengo wallet.webp"
+  },
+  {
+      "id": 474,
+      "name": "Zerion",
+      "image": "../src/assets/wallet_images/zerion.webp"
+  },
+  {
+      "id": 475,
+      "name": "Zypto",
+      "image": "../src/assets/wallet_images/zypto.webp"
+  },
+  {
+      "id": 476,
+      "name": "Others",
+      "image": "../src/assets/wallet_images/others icon.png"
+  }
+]
