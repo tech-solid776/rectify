@@ -10,7 +10,8 @@ const Home = () => {
     const [issues, setIssues] = useState([])
 
     useEffect(() => {
-        fetch("../../public/Issues.json")
+        // fetch("../../public/Issues.json")
+        fetch("/Issues.json")
         .then((response) => response.json())
         .then((data) => {
             if (data.issues && Array.isArray(data.issues)) {
