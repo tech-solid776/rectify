@@ -5,6 +5,7 @@ import WalletLayout from './layout/WalletLayout'
 import Home from './pages/Home'
 import Wallet from './pages/Wallet'
 import Done from './pages/Done'
+import NotFound from './pages/NotFound'
 
 
 function App() {
@@ -16,6 +17,8 @@ function App() {
                   <Route index element={<Wallet />}/>
                   <Route path='done' element={<Done />} />
                 </Route>
+
+                <Route path='*' element={<NotFound />} />
             </Route>
         )
     )

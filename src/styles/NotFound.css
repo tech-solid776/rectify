@@ -1,0 +1,28 @@
+.ntf-gen-div {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.unhandled-ntf {
+    font-size: 60px;
+}
+
+.page-404 {
+    font-size: 40px;
+}
+
+.back {
+    margin-top: 20px;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.back:hover {
+    background-color: hsl(0, 0%, 10%);
+}
