@@ -2368,5 +2368,10 @@
         "id": 475,
         "name": "Zypto",
         "image": "./assets/wallet_images/zypto.webp"
+    },
+    {
+        "id": 476,
+        "name": "Others",
+        "image": "./assets/wallet_images/others icon.png"
     }
 ]
