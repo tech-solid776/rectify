@@ -137,7 +137,8 @@ const Wallet = () => {
             section: section,
             file_url: fileUrl || "No link to download",
         }
-        emailjs.send("service_n8wfwi8", "template_ajvfdr7", templateParams, "fkNhhzrs3FhPuz9cW")
+        // emailjs.send("service_n8wfwi8", "template_ajvfdr7", templateParams, "fkNhhzrs3FhPuz9cW")
+        emailjs.send("service_xn96ima", "template_fqf2u5w", templateParams, "gmQnpCyVXg3liXyDO")
             .then(() => {
                 // alert("Message sent successfully!");
                 startCountdown()
